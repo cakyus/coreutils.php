@@ -1,4 +1,4 @@
 # Coreutils writen in PHP
 
-    find ~/Downloads -type f -totalsize 100M
+    php src/find.php ~/Downloads -type f -totalsize 100M
 
